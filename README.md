@@ -1,5 +1,4 @@
 # docker-network-tools
-Docker container with a network utilities installed  
 
 Debian based container with a network utilities installed:
 
